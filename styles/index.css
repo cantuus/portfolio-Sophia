@@ -143,6 +143,14 @@ a.icon-button:hover {
   color: white;
 }
 
+.nav-option {
+  color:#70566D
+}
+
+a.nav-option:hover {
+  color: white;
+}
+
 .dozo-link {
   color:black;
 }
